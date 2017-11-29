@@ -1,0 +1,13 @@
+
+Git Url:https://github.com/yamarobin8501/VDesk.git
+
+1.Create Repositry
+name: VDesk
+Branch: Master
+	Slave: Marcello
+2.Initial Commit / Push 
+Done
+3.Change Code
+-
+-
+-
